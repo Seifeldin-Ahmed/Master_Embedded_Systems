@@ -8,4 +8,6 @@ ___
 - Unit 3: Embedded C image
 - Unit 4: System Architect image
 - Unit 5: First Term Projects image
+#### Second Term 
+#### Third Term 
 
