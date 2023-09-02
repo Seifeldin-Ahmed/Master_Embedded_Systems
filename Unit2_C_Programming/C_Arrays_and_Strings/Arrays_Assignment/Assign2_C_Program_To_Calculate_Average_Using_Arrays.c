@@ -23,7 +23,7 @@ int main()
   while (number_of_data > 100 || number_of_data <= 0)
   {
 	  printf("Number should be in range (1,100)\n");
-	  printf("Enter the number of data again: ")
+	  printf("Enter the number of data again: ");
 	  fflush(stdin); fflush(stdout);
 	  scanf("%d", &number_of_data);
   }
