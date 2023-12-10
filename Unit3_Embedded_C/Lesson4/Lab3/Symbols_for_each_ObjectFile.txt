@@ -1,0 +1,48 @@
+ ****************************************************************************************************************
+ * @file           : Symbols for each object file and the final executable file 
+ * @author         : Seifeldin Ahmed Ismail
+ * @brief          : Learn-in-depth
+ ****************************************************************************************************************
+
+-----------------------------------------------------------------------------------------------------------------
+
+Symbols of main.o file:
+
+00000000 T main
+
+-----------------------------------------------------------------------------------------------------------------
+
+Symbols of startup.o file:
+
+         U _E_bss
+         U _E_DATA
+         U _E_text
+         U _S_bss
+         U _S_DATA
+00000084 T Default_Handler
+00000000 R g_p_fn_Vectors
+00000084 W H_fault_Handler
+         U main
+00000084 W NMI_Handler
+00000000 T Reset_Handler
+00000000 b Stack_top
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+Symbols of unit3_lab4_CortexM4.elf file:
+
+20000400 B _E_bss
+20000000 D _E_DATA
+0000012c T _E_text
+20000000 B _S_bss
+20000000 D _S_DATA
+00000120 T Default_Handler
+00000000 T g_p_fn_Vectors
+00000120 W H_fault_Handler
+00000010 T main
+00000120 W NMI_Handler
+0000009c T Reset_Handler
+20000000 b Stack_top
+
+
