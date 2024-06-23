@@ -16,7 +16,7 @@ ___
 - Unit 10: SW Testing/Validation
 #### Third Term 
 - Unit 11: Advanced Topics
-_ Unit 12: Automotive Protocols
+- Unit 12: Automotive Protocols
 - Unit 13: RTOS
 
 ![mycertificate](https://github.com/Seifeldin-Ahmed/Master_Embedded_Systems/assets/120275931/01884623-2cd4-4090-8b8a-8cc13514caa0)
